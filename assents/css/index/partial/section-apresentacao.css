@@ -1,0 +1,43 @@
+section.apresentacao {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding:0 80px 80px 80px;
+  overflow: hidden;
+  position: relative;
+  background-color: var(--cor-cinza);
+}
+
+section.apresentacao .imagem{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+section.apresentacao .imagem .foto{
+    width: 100%;
+    height: 350px;
+    padding-bottom: 80px;
+}
+
+section.apresentacao .imagem img{
+  border-radius: 15px;
+  border: 1px solid green;
+}
+
+section.apresentacao .texto {
+    text-align: justify;
+}
+
+section.apresentacao .texto h2{
+   font-size: 2.5em;
+   color: green;
+   padding-bottom: 15px;
+}
+
+section.apresentacao .texto p{
+  line-height: 1.5;
+  font-size: 1.1em;
+}

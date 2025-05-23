@@ -1,0 +1,109 @@
+section.descricao {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    background-color: var(--cor-cinza);
+}
+
+section.descricao .um{
+    display: flex;
+    justify-content: space-between;
+    padding:40px 80px 40px 80px;
+}
+
+section.descricao .um .foto{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+section.descricao .um .foto img{
+    width: 100%;
+    border-radius: 10px;
+    border: 1px solid #818181;
+}
+
+section.descricao .um .texto {
+   text-align: center;
+   padding-top: 50px;
+}
+
+section.descricao .um .texto h2{
+    font-size: 2em;
+    color: var(--cor-verde);
+    padding-bottom: 15px;
+}
+
+section.descricao .um .texto p{
+   line-height: 1.5;
+   font-size: 1.1em;
+}
+
+section.descricao .dois{
+    display: flex;
+    justify-content: space-between;
+    padding:40px 80px 40px 80px;
+}
+
+section.descricao .dois .foto{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+section.descricao .dois .foto img{
+    width: 100%;
+    border-radius: 10px;
+    border: 1px solid #818181;
+}
+
+section.descricao .dois .texto {
+   text-align: center;
+   padding-top: 50px;
+}
+
+section.descricao .dois .texto h2{
+    font-size: 2em;
+    padding-bottom: 15px;
+    color: var(--cor-verde);
+}
+
+section.descricao .dois .texto p{
+   line-height: 1.5;
+   font-size: 1.1em;
+}
+
+section.descricao .tres{
+    display: flex;
+    justify-content: space-between;
+    padding:40px 80px 40px 80px;
+}
+
+section.descricao .tres .foto{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+section.descricao .tres .foto img{
+    width: 100%;
+    border-radius: 10px;
+    border: 1px solid #818181;
+}
+
+section.descricao .tres .texto {
+   text-align: center;
+   padding-top: 50px;
+}
+
+section.descricao .tres .texto h2{
+    font-size: 2em;
+    padding-bottom: 15px;
+    color: var(--cor-verde);
+}
+
+section.descricao .tres .texto p{
+   line-height: 1.5;
+   font-size: 1.1em;
+}

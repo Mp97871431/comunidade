@@ -24,7 +24,7 @@ section.apresentacao .imagem .foto{
 
 section.apresentacao .imagem img{
   border-radius: 15px;
-  border: 1px solid green;
+  border: 1px solid #008000;
 }
 
 section.apresentacao .texto {

@@ -27,6 +27,6 @@ nav .opcoes a{
 }
 
 nav .opcoes a:hover {
-    background-color: rgb(146, 146, 146);
+    background-color: #929292;
     transition: 1s;
 }
